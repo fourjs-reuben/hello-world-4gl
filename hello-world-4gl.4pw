@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Project defaultApplication="18736" gstVersion="23217" version="3.0">
+  <Settings/>
+  <LanguageList version="1.0"/>
+  <PlatformList version="1.0"/>
+  <Group label="hello-world-4gl">
+    <Application dependencies="" id="18736" label="hello-world-4gl" targetDirectory="$(ProjectDir)">
+      <File filePath="hello-world-4gl.4gl"/>
+      <File filePath="hello-world-4gl.per"/>
+      <File filePath="README.md"/>
+    </Application>
+  </Group>
+</Project>
