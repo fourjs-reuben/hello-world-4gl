@@ -6,3 +6,5 @@ Hello World 4gl Example
 Making a change to test status icon - reuben
 
 Displayed the pwd in the form 
+
+(Change to update language)
